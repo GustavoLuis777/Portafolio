@@ -21,10 +21,7 @@ Me encanta crear soluciones prácticas y aplicaciones que hagan la vida más fá
   Plataforma educativa para colegios públicos y privados, diseñada con enfoque en accesibilidad para personas con discapacidad (sordo-mudo).  
 
 - **Proyecto 2**  
-  *(Agrega aquí una breve descripción de tu segundo proyecto)*  
-
-- **Proyecto 3**  
-  *(Agrega aquí una breve descripción de tu tercer proyecto)*  
+  Uno de mis proyectos personales fue una página web para un restaurante de comida china, con menú  y forma de pago
 
 ---
 
